@@ -1,3 +1,21 @@
 body {
-  background: yellow;
+  background: #FFFF99;
+}
+
+.top10{ margin-top: 10px; }
+.top25{ margin-top: 25px; }
+.top50{ margin-top: 50px; }
+.top100{ margin-top: 100px; }
+.top200{ margin-top: 200px; }
+
+.jumbotron {
+  background-color: #ff7575;
+}
+.homeBody {
+  min-height: 300px;
+  background-color: #faebd7;
+}
+
+.image {
+  max-width: 400px;
 }
